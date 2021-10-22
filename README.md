@@ -24,7 +24,7 @@ To DECRYPT a file run the decrypt function. Change the filename in the file you 
 
 
 ### remarks
-*You (or anyone) can only decrypt a encrypted file with the key used to encrypt that file. If you loose your key you can never decrypt the file, or if some else has the key and the encrypted file he/she can encrypt the file. So don't loose your key and do not store your key at the same place as the encrypted file!*
+*You (or anyone) can only decrypt an encrypted file with the key used to encrypt that file. If you loose your key you can never decrypt the file, or if some else has the key and the encrypted file he/she can encrypt the file. So don't loose your key and do not store your key at the same place as the encrypted file!*
 
 
 
