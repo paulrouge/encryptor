@@ -1,4 +1,4 @@
-# A scrypt to encrypte files.
+# A scrypt to encrypt and decrypt files.
 
 
 
