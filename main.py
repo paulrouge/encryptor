@@ -42,8 +42,8 @@ def encrypt():
     
     # OUTPUT
     # opening the file in write mode and writing the encrypted data
-    # if filename DOESNT already excists, file will be created, 
-    # if it DOES already excists it will be overwritten
+    # if filename DOESNT already exists, file will be created, 
+    # if it DOES already exists it will be overwritten
     with open('example_encrypted.txt', 'wb') as encrypted_file:
         encrypted_file.write(encrypted)
 
@@ -66,8 +66,8 @@ def decrypt():
     
     # OUTPUT
     # opening the file in write mode and writing the decrypted data
-    # if filename DOESNT already excists, file will be created, 
-    # if it DOES already excists it will be overwritten
+    # if filename DOESNT already exists, file will be created, 
+    # if it DOES already exists it will be overwritten
     with open('example_decrypted.txt', 'wb') as dec_file:
         dec_file.write(decrypted)
 
